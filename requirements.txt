@@ -1,0 +1,11 @@
+# Telegram bot framework (FSM, CallbackData, DefaultBotProperties ishlatiladi)
+aiogram>=3.13,<4.0
+
+# Jikan API so'rovlari va Render uchun health-check server (web.AppRunner)
+aiohttp>=3.9,<4.0
+
+# PostgreSQL (DATABASE_URL berilganda). Bo'sh bo'lsa SQLite ishlatiladi
+asyncpg>=0.30.0,<1.0
+
+# .env faylini o'qish
+python-dotenv>=1.0,<2.0
